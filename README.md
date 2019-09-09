@@ -1,0 +1,2 @@
+# scmybatis
+该项目是springboot和mybatis的集成示例
